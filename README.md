@@ -1,17 +1,25 @@
 # Time-Game
 
-##Components Required:
+## Components Required:
 
 • 4x 1K Ohm Resistors
+
 • 1x Servo
+
 • 1x Raspberry Pi
+
 • 1x Red LED
+
 • 1x Green LED
+
 • 4x Push Buttons
+
 • 2x 330 Ohm Resistors
+
 • Male to Male Wires (Multiple)
+
 • Male to Female Wires (Multiple)
 
 Wiring Diagram:
 
-![Wiring Diagram](https://github.com/kgeok/Project-Reverb/blob/master/IMG_4385.jpeg)
+![Wiring Diagram](https://github.com/kgeok/Time-Game/blob/master/BF7C576A-1CA3-42D1-A3D0-089EDB782ECB.jpeg)
